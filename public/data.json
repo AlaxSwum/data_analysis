@@ -1,0 +1,59 @@
+{
+  "totalPatients": 12945,
+  "genderDistribution": {
+    "Female": 7308,
+    "Male": 5565,
+    "Not Specified": 70,
+    "Not Known": 2
+  },
+  "ethnicityDistribution": {
+    "White - British": 1506,
+    "Prefer not to specify": 318,
+    "White - Other British": 81,
+    "Asian or Asian British - Other Asian": 8,
+    "Chinese or Other Ethnic Group - Chinese": 7,
+    "Asian or Asian British - Indian": 6,
+    "Asian or Asian British - Pakistani": 4,
+    "Mixed - Other Mixed": 3,
+    "Chinese or Other Ethnic Group - Other Ethnic Group": 3,
+    "Black or Black British - Black Caribbean": 2
+  },
+  "ageGroups": {
+    "0-17": 1700,
+    "18-29": 1445,
+    "30-44": 2259,
+    "45-59": 2201,
+    "60-74": 2216,
+    "75-99": 2996,
+    "100+": 125
+  },
+  "prescriberStats": {
+    "CROOK, Tim": 818,
+    "RAMOS, Cristina": 697,
+    "MULLIN, Annemarie": 654,
+    "MCGUIGAN, Stephen": 621,
+    "KHAN, Saqib": 518,
+    "CROOK, Dr Tim": 425,
+    "HOUGH, Kylie": 403,
+    "HALL, Giles": 364,
+    "KING, Dr Katharine": 337,
+    "WILSON, Charlotte": 334
+  },
+  "surgeryStats": {
+    "Rother House": 9219,
+    "WINDRUSH MEDICAL PRACTICE": 692,
+    "BRIDGE HOUSE MEDICAL CENTRE": 652,
+    "TRINITY COURT SURGERY": 183,
+    "ROTHER CARE PHARMACY": 117,
+    "Alcester Road": 91,
+    "Address not supplied": 62,
+    "POOL MEDICAL CENTRE": 56,
+    "ASPEN MEDICAL PRACTICE": 38,
+    "Meon Medical Centre": 33
+  },
+  "contactAvailability": {
+    "homePhone": 1435,
+    "mobilePhone": 3753,
+    "noContact": 8285
+  }
+}
